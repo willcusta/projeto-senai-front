@@ -1,7 +1,3 @@
-<HTML>
-<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
-<BODY>
-   <H1> GIT </H1>
-   <H1> VERSIONAMNETO1 </H1>
-</BODY>
-</HTML>
+readme de exemplo 
+
+lembrei do commit : git status
