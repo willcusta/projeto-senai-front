@@ -1,3 +1,7 @@
 readme de exemplo 
 
+<<<<<<< HEAD
 lembrei do comando: git commit 
+=======
+lembrei do commit : git status
+>>>>>>> 625aa4ce9c25ffb34136a90a98ff5177d0138987
